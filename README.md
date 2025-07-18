@@ -40,5 +40,3 @@ Agent Study Hub is an intelligent, skill-based learning platform built with the 
 
 ---
 
-## 📂 Folder Structure
-
