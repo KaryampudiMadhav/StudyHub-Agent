@@ -40,3 +40,39 @@ Agent Study Hub is an intelligent, skill-based learning platform built with the 
 
 ---
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+-   Node.js (v14 or later)
+-   npm
+-   MongoDB account and connection string
+-   Inngest API Key
+
+### Installation
+
+1.  **Clone the repository**
+  git clone https://github.com/KaryampudiMadhav/StudyHub-Agent/ 
+2.  **Navigate to the project directory and install dependencies**
+    cd your-repo-name
+    # Install server dependencies
+    npm install
+    # Install client dependencies
+    cd client
+    npm install
+3.  **Create a `.env` file in the root directory with the following variables:*
+    PORT=...
+    MONGO_DB_URI=...
+    JWT_SECRET=...
+    INNGEST_API_KEY=...
+4.  **Run the application**
+    # From the root directory, start the backend
+    npm start
+    # From the client directory, start the frontend
+    npm run dev
+
+## ✍️ Author
+
+-   **Madhav Karyampudi**
+-   [GitHub](https://github.com/KaryampudiMadhav)
+
